@@ -1,0 +1,9 @@
+Steps to Run Project :
+
+** NOTE : please refer to the master branch foir code review **
+** NOTE : please refer to the master branch foir code review **
+
+1. Clone the Repository.
+2. cd into the Repository folder.
+3. install all dependencies - command : npm install
+4. start the server - command : node server
